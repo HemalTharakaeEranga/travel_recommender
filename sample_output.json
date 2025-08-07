@@ -1,0 +1,22 @@
+{
+  "recommendations": [
+    {
+      "name": "Kyoto, Japan",
+      "description": "An ancient city filled with temples, gardens, and traditional tea houses.",
+      "reason": "Moderate climate in spring, perfect for culture lovers who enjoy historical sites and Japanese cuisine.",
+      "satisfaction_score": 87
+    },
+    {
+      "name": "Queenstown, New Zealand",
+      "description": "Lake-side resort town surrounded by snow-capped mountains—world-class for outdoor thrills.",
+      "reason": "Cold climate with endless adventure options such as bungee-jumping and skiing; great fit for an active 7-day trip.",
+      "satisfaction_score": 82
+    },
+    {
+      "name": "Reykjavík, Iceland",
+      "description": "Hip Nordic capital with geothermal spas, lively cafés, and access to the northern lights.",
+      "reason": "Tropical weather, food-centric city tours, plus relaxing hot-spring experiences align with relaxation and culture interests.",
+      "satisfaction_score": 80
+    }
+  ]
+}

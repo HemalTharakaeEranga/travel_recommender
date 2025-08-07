@@ -1,0 +1,7 @@
+fastapi~=0.116.1
+uvicorn[standard]
+
+pydantic~=2.11.7
+python-dotenv~=1.1.1
+
+scikit-learn~=1.5.0

@@ -1,0 +1,22 @@
+### Root endpoint
+GET http://127.0.0.1:8000/
+Accept: application/json
+
+###
+
+### Hello endpoint
+GET http://127.0.0.1:8000/hello/User
+Accept: application/json
+
+###
+
+### Travel health check
+GET http://127.0.0.1:8000/api/health
+Accept: application/json
+
+###
+
+### Correct: POST to recommendations
+POST http://127.0.0.1:8000/api/recommendations
+Content-Type: application/json
+
