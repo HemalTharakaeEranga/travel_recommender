@@ -109,7 +109,6 @@ travel-recommender/
 | Swap to OpenAI or HF | `backend/travel.py::_call_cloudflare`          |
 | Train real model     | drop sklearn `pickle` into `backend/model.py`  |
 | Add auth             | wrap FastAPI dependency, CORS already open     |
-| Docker               | copy `docker-compose.yml` from examples folder |
 
 ---
 
